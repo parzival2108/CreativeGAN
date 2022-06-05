@@ -1,0 +1,5 @@
+opencv-python
+pytorch-msssim
+tensorboard
+tensorflow
+protobuf==3.9.2

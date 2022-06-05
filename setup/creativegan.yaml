@@ -1,0 +1,18 @@
+name: creativegan
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pip
+  - pip:  
+    - numpy
+    - scipy
+    - scikit-learn
+    - scikit-image
+    - matplotlib
+    - seaborn
+    - numba
+    - jupyter
+    - jupyterlab
+    - pyyaml
+    - tqdm
